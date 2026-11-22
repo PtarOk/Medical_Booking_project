@@ -1,0 +1,66 @@
+👨‍💼 Администраторы системы
+
+Главный админ
+admin@medical.test
+admin123
+
+
+Управляющая
+manager@medical.test
+manager123
+
+
+👨‍⚕️ Врачи
+
+Терапевт
+Иван Иванов
+ivanov@medical.test
+doctor123
+
+Кардиолог
+Мария Петрова
+petrova@medical.test
+doctor123
+
+Стоматолог
+Алексей Сидоров
+sidorov@medical.test
+doctor123
+
+Невролог
+Ольга Кузнецова
+kuznetsova@medical.test
+doctor123
+
+Хирург
+Дмитрий Смирнов
+smirnov@medical.test
+doctor123
+
+🧑‍🤝‍🧑 Пациенты
+
+Анна Смирнова
+anna@mail.ru
+patient123
+
+Дмитрий Волков
+dmitry@mail.ru
+patient123
+
+Елена Новикова
+elena@mail.ru
+patient123
+
+Сергей Морозов
+sergey@mail.ru
+patient123
+
+Ольга Соколова
+olga@mail.ru
+patient123
+
+Никита Лебедев
+nikita@mail.ru
+patient123
+
+

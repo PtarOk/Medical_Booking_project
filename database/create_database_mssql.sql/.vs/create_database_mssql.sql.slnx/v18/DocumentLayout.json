@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PtarOk\\Desktop\\\u0438\u043D\u0444\u0430\\medical-booking\\database\\create_database_mssql.sql\\",
+  "Documents": [],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d5d44f77-8be4-44e4-8a5c-b7b9d5e2e4f9}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
